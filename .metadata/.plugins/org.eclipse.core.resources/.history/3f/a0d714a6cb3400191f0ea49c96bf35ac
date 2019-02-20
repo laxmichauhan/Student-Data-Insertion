@@ -1,0 +1,13 @@
+package dao;
+
+import model.Student;
+
+public class Controller {
+
+	public static boolean storeRegisterData(Student st) {
+		// TODO Auto-generated method stub
+		return false;
+		
+	}
+
+}

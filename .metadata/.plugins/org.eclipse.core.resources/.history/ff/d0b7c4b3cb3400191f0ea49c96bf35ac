@@ -1,0 +1,22 @@
+package dao;
+
+import model.Student;
+
+public class Controller {
+
+	public static boolean storeRegisterData(Student st) {
+		boolean status=false;
+		
+		try {
+			
+		} 
+		catch (Exception e) {
+			
+		}
+		
+		return status;
+	
+	}
+	
+
+}

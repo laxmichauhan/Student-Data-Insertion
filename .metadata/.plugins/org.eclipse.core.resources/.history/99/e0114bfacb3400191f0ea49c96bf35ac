@@ -1,0 +1,25 @@
+package dao;
+
+import java.sql.Connection;
+
+import model.Student;
+
+public class Controller {
+	private static Connection con;
+
+	public static boolean storeRegisterData(Student st) {
+		boolean status=false;
+		
+		try {
+			
+		} 
+		catch (Exception e) {
+			
+		}
+		
+		return status;
+	
+	}
+	
+
+}

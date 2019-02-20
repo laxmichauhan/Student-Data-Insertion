@@ -1,0 +1,12 @@
+package model;
+
+public class Student {
+	int rollno,semester;
+	double marks;
+	String stName,fName,clsName,emailId,password,gender,address;
+	public Student() {
+		// TODO Auto-generated constructor stub
+	}
+	
+
+}
